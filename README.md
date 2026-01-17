@@ -1,6 +1,8 @@
 # 👋 Merhaba, Ben Fatma Gül Koçak (@gulpiedpiper1)
 
-Havacılık ve Uzay Mühendisliği 3. sınıf öğrencisiyim. [cite_start]Akademik ve profesyonel odak noktamı **Uydu Haberleşmesi (SATCOM)**, **RF Sistemleri** ve **Yörünge Mekaniği** oluşturuyor. [cite: 1, 2, 45] [cite_start]Uzay görevlerinin tasarım ve analiz süreçlerinde aktif rol almayı hedefliyorum. [cite: 28, 48]
+Havacılık ve Uzay Mühendisliği 3. sınıf öğrencisiyim.  
+Akademik ve profesyonel odak noktamı **Uydu Haberleşmesi (SATCOM)**, **RF Sistemleri** ve **Yörünge Mekaniği** oluşturuyor.  
+Uzay görevlerinin tasarım ve analiz süreçlerinde aktif rol almayı hedefliyorum.
 
 ---
 
@@ -17,32 +19,39 @@ Havacılık ve Uzay Mühendisliği 3. sınıf öğrencisiyim. [cite_start]Akadem
 ---
 
 ### 👀 İlgi Alanlarım
-* [cite_start]🛰️ **Uydu Haberleşmesi:** LEO/MEO yörünge mimarileri ve yer istasyonu altyapıları üzerine teorik ve pratik çalışmalar. [cite: 27, 46]
-* [cite_start]📡 **RF Sistemleri:** Anten tasarımı, RF zinciri analizi, gürültü sıcaklığı ($G/T$) ve SNR optimizasyonu. [cite: 37, 39, 46]
-* [cite_start]🌌 **Yörünge Mekaniği:** İki cisim problemi modellemesi, uydu yörünge takibi ve Doppler kayması analizi. [cite: 42, 47]
-* [cite_start]🔐 **Veri Güvenliği:** Uydu ağlarında blokzincir (blockchain) tabanlı şifreleme yöntemleri üzerine araştırmalar. [cite: 64]
+- 🛰️ **Uydu Haberleşmesi:** LEO/MEO yörünge mimarileri ve yer istasyonu altyapıları üzerine teorik ve pratik çalışmalar.
+- 📡 **RF Sistemleri:** Anten tasarımı, RF zinciri analizi, gürültü sıcaklığı ($G/T$) ve SNR optimizasyonu.
+- 🌌 **Yörünge Mekaniği:** İki cisim problemi modellemesi, uydu yörünge takibi ve Doppler kayması analizi.
+- 🔐 **Veri Güvenliği:** Uydu ağlarında blokzincir (blockchain) tabanlı şifreleme yöntemleri üzerine araştırmalar.
+
+---
 
 ### 🌱 Neler Üzerinde Çalışıyorum?
-* [cite_start]**Uydu Link Bütçesi Hesaplama Aracı:** MATLAB App Designer kullanarak LEO/MEO uyduları için dinamik analiz sağlayan GUI geliştirme. [cite: 31, 32, 34]
-* [cite_start]**STM32 Telemetri Modülü:** STM32F407 üzerinde GPS, jiroskop ve sensör verilerinin entegrasyonu. [cite: 47]
-* [cite_start]**Sistem Mühendisliği:** Yer istasyonu alıcı sistemleri için teknik gereksinim dökümantasyonu ve performans analizi. [cite: 38]
+- **Uydu Link Bütçesi Hesaplama Aracı:** MATLAB App Designer kullanarak LEO/MEO uyduları için dinamik analiz sağlayan GUI geliştirme.
+- **STM32 Telemetri Modülü:** STM32F407 üzerinde GPS, jiroskop ve sensör verilerinin entegrasyonu.
+- **Sistem Mühendisliği:** Yer istasyonu alıcı sistemleri için teknik gereksinim dökümantasyonu ve performans analizi.
+
+---
 
 ### 📊 Teknik Yetenekler
-* [cite_start]**Yazılım:** MATLAB, Python, C/C++. [cite: 12, 14, 59]
-* [cite_start]**Mühendislik:** Link Bütçesi Analizi, RF Sistemleri, Telemetri, Yörünge Mekaniği. [cite: 16, 17, 18, 19]
-* [cite_start]**Diller:** İngilizce (B2), Rusça (A2). [cite: 21, 60, 61]
+- **Yazılım:** MATLAB, Python, C/C++.
+- **Mühendislik:** Link Bütçesi Analizi, RF Sistemleri, Telemetri, Yörünge Mekaniği.
+- **Diller:** İngilizce (B2), Rusça (A2).
+
+---
 
 ### 📫 Bana Ulaşın
-[![Email](https://img.shields.io/badge/Email-Fatmagulkocak9%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Fatmagulkocak9@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Fatmagulkocak9%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Fatmagulkocak9@gmail.com)  
 [![Location](https://img.shields.io/badge/Konum-Konya%2C%20T%C3%BCrkiye-blue?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Konya)
 
 ---
 
 ### 🎨 Kişisel İlgi Alanları
-* [cite_start]📸 Analog Fotoğrafçılık & Fotoğrafçılık [cite: 23, 77]
-* [cite_start]🚴 Bisiklet Sürmek [cite: 23, 77]
-* [cite_start]📚 Bilim Kurgu Edebiyatı [cite: 23]
-* [cite_start]👨‍🍳 Mutfak Sanatları (Tatlı Yapımı) [cite: 75]
+- 📸 Analog Fotoğrafçılık & Fotoğrafçılık
+- 🚴 Bisiklet Sürmek
+- 📚 Bilim Kurgu Edebiyatı
+- 👨‍🍳 Mutfak Sanatları (Tatlı Yapımı)
 
 ---
+
 *Bu profil düzenli olarak yeni projelerle güncellenmektedir.*
